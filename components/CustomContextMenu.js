@@ -90,15 +90,7 @@ export default function CustomContextMenu(props) {
     setShow(false)
   }
 
-  /**
-  * 切换主题
-  */
-  function handeChangeTheme() {
-    const randomTheme = THEMES[Math.floor(Math.random() * THEMES.length)] // 从THEMES数组中 随机取一个主题
-    const query = router.query
-    query.theme = randomTheme
-    router.push({ pathname: router.pathname, query })
-  }
+
 
   function handleChangeDarkMode() {
     const newStatus = !isDarkMode
