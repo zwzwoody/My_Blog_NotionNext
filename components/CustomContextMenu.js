@@ -3,8 +3,8 @@ import { useRouter } from 'next/router'
 import { useEffect, useState, useRef, useLayoutEffect } from 'react'
 import { useGlobal } from '@/lib/global'
 import { saveDarkModeToCookies, THEMES } from '@/themes/theme'
-import BLOG from '@/blog.config'
 import useWindowSize from '@/hooks/useWindowSize'
+import { siteConfig } from '@/lib/config'
 
 /**
  * 自定义右键菜单
@@ -28,7 +28,7 @@ export default function CustomContextMenu(props) {
   function handleJumpToRandomPost() {
     const randomIndex = Math.floor(Math.random() * latestPosts.length)
     const randomPost = latestPosts[randomIndex]
-    router.push(`${BLOG.SUB_PATH}/${randomPost?.slug}`)
+    router.push(`${siteConfig('SUB_PATH', '')}/${randomPost?.slug}`)
   }
 
   useLayoutEffect(() => {
@@ -93,7 +93,12 @@ export default function CustomContextMenu(props) {
   /**
   * 切换主题
   */
-
+  function handeChangeTheme() {
+    const randomTheme = THEMES[Math.floor(Math.random() * THEMES.length)] // 从THEMES数组中 随机取一个主题
+    const query = router.query
+    query.theme = randomTheme
+    router.push({ pathname: router.pathname, query })
+  }
 
   function handleChangeDarkMode() {
     const newStatus = !isDarkMode
