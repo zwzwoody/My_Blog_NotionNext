@@ -223,12 +223,12 @@ const BLOG = {
       artist: '林生祥',
       url: 'https://m804.music.126.net/20240220033508/1e11112222413a19c1d82d3e9df03e8d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481791156/3c31/c3ba/8df1/3a4bc61144ce0dc454a830884374e085.mp3?_authSecret=0000018dc2c68ca208f80aaba54f2601',
       cover:
-            'https://i.biliimg.com/bfs/im/56b80f8d1692abb73f3fccaa128d61283ba04e74.jpg@70w_70h_1c.webp'
+            'http://p1.music.126.net/cLoAM3X8pIuCil_oJpxjWw==/18511377767183768.jpg?param=130y130'
     },
     {
       name: 'Cornfield Chase',
       artist: 'Hans Zimmer',
-      url: 'https://m804.music.126.net/20240220031024/34c4db87b0c94abae67dfefcaada2677/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/18747696370/ba29/3c8c/a762/323c666f28a2d2408334cb6a78819e6d.mp3?_authSecret=0000018dc2afe6b9052e0aa4638944a3',
+      url: 'https://m804.music.126.net/20240220034811/9a997e5a3575f2691cfa88a536aee826/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/18747696370/ba29/3c8c/a762/323c666f28a2d2408334cb6a78819e6d.mp3?_authSecret=0000018dc2d27f1a147e0aaba38e05ad',
       cover:
             'http://p2.music.126.net/U3oZfHlbzrFxuR9Y9jOgkA==/109951168223454519.jpg?param=130y130'
     },
@@ -237,26 +237,26 @@ const BLOG = {
       artist: '林海',
       url: 'https://lt-sycdn.kuwo.cn/ebf5541157fde4bf0609a57ae15c00ea/65d3a25d/resource/n3/7/50/2500908947.mp3',
       cover:
-            'https://i.biliimg.com/bfs/im/62863646120614ba487d327166391ee3dd08fad8.jpg@70w_70h_1c.webp'
+            'https://y.qq.com/music/photo_new/T002R300x300M000002vrRdy49OgCi_3.jpg?max_age=2592000'
     },
     {
       name: 'Bloom of Youth',
       artist: 'Key Sounds Label',
-      url: 'https://m804.music.126.net/20240220031523/83f45ae11eee23408dafb16711d0c1de/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15005807694/b057/2021/9fde/500f01d1ae259f28a947134e9b80fd4a.mp3?_authSecret=0000018dc2b476961af70aaba12a1438',
+      url: 'https://m704.music.126.net/20240220034937/b8e90ee3929f6789f742109f51be74b3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15005807694/b057/2021/9fde/500f01d1ae259f28a947134e9b80fd4a.mp3?_authSecret=0000018dc2d3cf340a330aaba4fbadde',
       cover:
-            'https://i.biliimg.com/bfs/im/c6e2f53ff8a39236e0ea547d9e46f087d5992d0b.jpg@70w_70h_1c.webp'
+            'http://p2.music.126.net/J3OaDojFCITstz68tcMRfA==/109951167557780159.jpg?param=130y130'
     },
     {
       name: '城南花已开',
       artist: '三亩地',
       url: 'https://res.wx.qq.com/voice/getvoice?mediaid=MzI3NjYzODY0Nl8yMjQ3NDg2NjE0',
       cover:
-            'https://i.biliimg.com/bfs/im/b0b6cd10a9bc426bc1149eb91c5d0ff02f0bc874.jpg@70w_70h_1c.webp'
+            'https://y.qq.com/music/photo_new/T002R300x300M000001JyIeM0hK5lO_1.jpg?max_age=2592000'
     },
     {
       name: '【FREE】lucky',
       artist: 'Salder4cash',
-      url: 'https://music.163.com/song/media/outer/url?id=1392600538.mp3',
+      url: 'https://lu-sycdn.kuwo.cn/068bf798a557d64245b08357031798d0/65d3ab72/resource/n3/31/35/283278062.mp3',
       cover:
             'http://p1.music.126.net/QJoBtToXBScsEnWfZZa6fw==/109951164380775587.jpg?param=130y130'
     },
@@ -265,7 +265,7 @@ const BLOG = {
       artist: ' 泽野弘之',
       url: 'https://ri-sycdn.kuwo.cn/7826b18595f6eccf5e513512b1f14b67/65d3a4cc/resource/n1/8/65/2493455390.mp3',
       cover:
-            'https://i.biliimg.com/bfs/im/a46b772588e008547684714d49ee0fe50211894a.jpg@70w_70h_1c.webp'
+            'https://y.qq.com/music/photo_new/T002R300x300M000003KlbID0ty3NB_1.jpg?max_age=2592000'
     },
     {
       name: '第一章 アシタカせっ記',
@@ -293,7 +293,7 @@ const BLOG = {
       artist: '泽野弘之',
       url: 'https://lv-sycdn.kuwo.cn/59b1f6c7d38fbf7f48fa00597887a7a0/65d3a6c0/resource/30106/trackmedia/M500000Fc0RK1BJ0D9.mp3',
       cover:
-            'https://i.biliimg.com/bfs/im/2762eb036539cdb37d7f973c1a9387eefd3bdf05.jpg@70w_70h_1c.webp'
+            'https://y.qq.com/music/photo_new/T002R300x300M000003IQz7S3x6HE4_1.jpg?max_age=2592000'
     },
     {
       name: 'One Summer\'s Day (The Name of Life)',
@@ -307,14 +307,14 @@ const BLOG = {
       artist: 'Ayasa绚沙',
       url: 'https://nf-sycdn.kuwo.cn/6a9a674e9cbcb0cbdb3d45787ca05a5c/65d3a877/resource/n3/89/51/1041984994.mp3',
       cover:
-            'https://i.biliimg.com/bfs/im/96db5552185829b3f66d42375f65b7f9a2083fc4.jpg@70w_70h_1c.webp'
+            'https://y.qq.com/music/photo_new/T002R300x300M000003SAM6t0yXMjA_2.jpg?max_age=2592000'
     },
     {
       name: '告白の夜',
       artist: 'Ayasa绚沙',
       url: 'https://lv-sycdn.kuwo.cn/3b62e5a3079efb270aa0f1b7ca796333/65d3a8e3/resource/30106/trackmedia/M500000sIvsg1K7GHj.mp3',
       cover:
-            'https://i.biliimg.com/bfs/im/5879df35b3996771ee3ce25826b36669ec79c5d5.jpg@70w_70h_1c.webp'
+            'https://y.qq.com/music/photo_new/T002R300x300M0000001nWAJ0rCfJU_1.jpg?max_age=2592000'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // （缺点是付费音乐仅有30秒，因此用外部链接更好）是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
