@@ -230,7 +230,7 @@ const BLOG = {
   MUSIC_PLAYER_METING_SERVER:
         process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING_SERVER || 'tencent', // 音乐平台，[netease, tencent, kugou, xiami, baidu]
   MUSIC_PLAYER_METING_ID:
-        process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING_ID || '9158618056', // 对应歌单的 id
+        process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING_ID || '8923542913', // 对应歌单的 id
   MUSIC_PLAYER_METING_LRC_TYPE:
         process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING_LRC_TYPE || '0', // 可选值： 3 | 1 | 0（0：禁用 lrc 歌词，1：lrc 格式的字符串，3：lrc 文件 url）
 
