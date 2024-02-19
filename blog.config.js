@@ -269,7 +269,7 @@ const BLOG = {
     },
     {
       name: '第一章 アシタカせっ記',
-      artist: '久石譲 / Czech Philharmonic Orchestra',
+      artist: '久石譲',
       url: 'https://music.163.com/song/media/outer/url?id=28457056.mp3',
       cover:
             'http://p1.music.126.net/Eb_ohGiwaCYtouA9ptXuBQ==/109951164728006335.jpg?param=130y130'
