@@ -212,9 +212,9 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
+      name: '五月雨',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=484056997.mp3',
+      url: 'https://i-720.wwentua.com:446/02200200158311337bb/2024/01/16/974d5daa156b39808924fd88fc531047.mp3?st=U9lzUpRUoIrPwadtFN4XYg&e=1708369371&b=Abdc5gOXWbpWn1KMCrNTzAf6CXgF7VH8B8wL4FfyB60IvwG7VOMH5FWyVLlRLwUyB2AJZQYpB2wGJVtl&fi=158311337&pid=103-116-121-32&up=2&mp=0&co=0',
       cover:
             'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
