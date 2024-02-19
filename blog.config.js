@@ -216,7 +216,7 @@ const BLOG = {
       artist: 'Falcom Sound Team jdk',
       url: 'https://i-720.wwentua.com:446/02200200158311337bb/2024/01/16/974d5daa156b39808924fd88fc531047.mp3?st=U9lzUpRUoIrPwadtFN4XYg&e=1708369371&b=Abdc5gOXWbpWn1KMCrNTzAf6CXgF7VH8B8wL4FfyB60IvwG7VOMH5FWyVLlRLwUyB2AJZQYpB2wGJVtl&fi=158311337&pid=103-116-121-32&up=2&mp=0&co=0',
       cover:
-            'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'http://p2.music.126.net/rdpott3hrkc53V2sbaS0Kw==/109951166364157298.jpg?param=130y130'
     },
     {
       name: '王都グランセル',
