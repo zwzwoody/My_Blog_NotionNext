@@ -297,7 +297,7 @@ const BLOG = {
     },
     {
       name: 'One Summer\'s Day (The Name of Life)',
-      artist: '久石譲 / Royal Philharmonic Orchestra',
+      artist: '久石譲',
       url: 'https://music.163.com/song/media/outer/url?id=2059966591.mp3',
       cover:
             'http://p1.music.126.net/dMMJGSncbQYMjv8j6d7Dvg==/109951168707165994.jpg?param=130y130'
