@@ -213,17 +213,108 @@ const BLOG = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
       name: '五月雨',
-      artist: 'Falcom Sound Team jdk',
+      artist: '高梨康治',
       url: 'https://i-720.wwentua.com:446/02200200158311337bb/2024/01/16/974d5daa156b39808924fd88fc531047.mp3?st=U9lzUpRUoIrPwadtFN4XYg&e=1708369371&b=Abdc5gOXWbpWn1KMCrNTzAf6CXgF7VH8B8wL4FfyB60IvwG7VOMH5FWyVLlRLwUyB2AJZQYpB2wGJVtl&fi=158311337&pid=103-116-121-32&up=2&mp=0&co=0',
       cover:
             'http://p2.music.126.net/rdpott3hrkc53V2sbaS0Kw==/109951166364157298.jpg?param=130y130'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '面会菜',
+      artist: '林生祥',
+      url: 'https://m804.music.126.net/20240220033508/1e11112222413a19c1d82d3e9df03e8d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481791156/3c31/c3ba/8df1/3a4bc61144ce0dc454a830884374e085.mp3?_authSecret=0000018dc2c68ca208f80aaba54f2601',
       cover:
-            'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'https://i.biliimg.com/bfs/im/56b80f8d1692abb73f3fccaa128d61283ba04e74.jpg@70w_70h_1c.webp'
+    },
+    {
+      name: 'Cornfield Chase',
+      artist: 'Hans Zimmer',
+      url: 'https://m804.music.126.net/20240220031024/34c4db87b0c94abae67dfefcaada2677/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/18747696370/ba29/3c8c/a762/323c666f28a2d2408334cb6a78819e6d.mp3?_authSecret=0000018dc2afe6b9052e0aa4638944a3',
+      cover:
+            'http://p2.music.126.net/U3oZfHlbzrFxuR9Y9jOgkA==/109951168223454519.jpg?param=130y130'
+    },
+    {
+      name: '欢沁',
+      artist: '林海',
+      url: 'https://lt-sycdn.kuwo.cn/ebf5541157fde4bf0609a57ae15c00ea/65d3a25d/resource/n3/7/50/2500908947.mp3',
+      cover:
+            'https://i.biliimg.com/bfs/im/62863646120614ba487d327166391ee3dd08fad8.jpg@70w_70h_1c.webp'
+    },
+    {
+      name: 'Bloom of Youth',
+      artist: 'Key Sounds Label',
+      url: 'https://m804.music.126.net/20240220031523/83f45ae11eee23408dafb16711d0c1de/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15005807694/b057/2021/9fde/500f01d1ae259f28a947134e9b80fd4a.mp3?_authSecret=0000018dc2b476961af70aaba12a1438',
+      cover:
+            'https://i.biliimg.com/bfs/im/c6e2f53ff8a39236e0ea547d9e46f087d5992d0b.jpg@70w_70h_1c.webp'
+    },
+    {
+      name: '城南花已开',
+      artist: '三亩地',
+      url: 'https://res.wx.qq.com/voice/getvoice?mediaid=MzI3NjYzODY0Nl8yMjQ3NDg2NjE0',
+      cover:
+            'https://i.biliimg.com/bfs/im/b0b6cd10a9bc426bc1149eb91c5d0ff02f0bc874.jpg@70w_70h_1c.webp'
+    },
+    {
+      name: '【FREE】lucky',
+      artist: 'Salder4cash',
+      url: 'https://music.163.com/song/media/outer/url?id=1392600538.mp3',
+      cover:
+            'http://p1.music.126.net/QJoBtToXBScsEnWfZZa6fw==/109951164380775587.jpg?param=130y130'
+    },
+    {
+      name: 'Call of Silence',
+      artist: ' 泽野弘之',
+      url: 'https://ri-sycdn.kuwo.cn/7826b18595f6eccf5e513512b1f14b67/65d3a4cc/resource/n1/8/65/2493455390.mp3',
+      cover:
+            'https://i.biliimg.com/bfs/im/a46b772588e008547684714d49ee0fe50211894a.jpg@70w_70h_1c.webp'
+    },
+    {
+      name: '第一章 アシタカせっ記',
+      artist: '久石譲 / Czech Philharmonic Orchestra',
+      url: 'https://music.163.com/song/media/outer/url?id=28457056.mp3',
+      cover:
+            'http://p1.music.126.net/Eb_ohGiwaCYtouA9ptXuBQ==/109951164728006335.jpg?param=130y130'
+    },
+    {
+      name: 'アシタカせっ記',
+      artist: '久石譲',
+      url: 'https://music.163.com/song/media/outer/url?id=445140.mp3',
+      cover:
+            'http://p1.music.126.net/hsx2N-dzW_bcIvSO9I3HlQ==/109951164728035632.jpg?param=130y130'
+    },
+    {
+      name: '母なる海',
+      artist: '田中公平 / 浜口史郎',
+      url: 'https://music.163.com/song/media/outer/url?id=4965624.mp3',
+      cover:
+            'http://p2.music.126.net/SmqMdDIFR190X7z-X4QTSw==/5820814557501346.jpg?param=130y130'
+    },
+    {
+      name: 'eye-water',
+      artist: '泽野弘之',
+      url: 'https://lv-sycdn.kuwo.cn/59b1f6c7d38fbf7f48fa00597887a7a0/65d3a6c0/resource/30106/trackmedia/M500000Fc0RK1BJ0D9.mp3',
+      cover:
+            'https://i.biliimg.com/bfs/im/2762eb036539cdb37d7f973c1a9387eefd3bdf05.jpg@70w_70h_1c.webp'
+    },
+    {
+      name: 'One Summer\'s Day (The Name of Life)',
+      artist: '久石譲 / Royal Philharmonic Orchestra',
+      url: 'https://music.163.com/song/media/outer/url?id=2059966591.mp3',
+      cover:
+            'http://p1.music.126.net/dMMJGSncbQYMjv8j6d7Dvg==/109951168707165994.jpg?param=130y130'
+    },
+    {
+      name: '我愛你',
+      artist: 'Ayasa绚沙',
+      url: 'https://nf-sycdn.kuwo.cn/6a9a674e9cbcb0cbdb3d45787ca05a5c/65d3a877/resource/n3/89/51/1041984994.mp3',
+      cover:
+            'https://i.biliimg.com/bfs/im/96db5552185829b3f66d42375f65b7f9a2083fc4.jpg@70w_70h_1c.webp'
+    },
+    {
+      name: '告白の夜',
+      artist: 'Ayasa绚沙',
+      url: 'https://lv-sycdn.kuwo.cn/3b62e5a3079efb270aa0f1b7ca796333/65d3a8e3/resource/30106/trackmedia/M500000sIvsg1K7GHj.mp3',
+      cover:
+            'https://i.biliimg.com/bfs/im/5879df35b3996771ee3ce25826b36669ec79c5d5.jpg@70w_70h_1c.webp'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // （缺点是付费音乐仅有30秒，因此用外部链接更好）是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
