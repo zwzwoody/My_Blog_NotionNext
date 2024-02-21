@@ -221,28 +221,28 @@ const BLOG = {
     {
       name: '面会菜',
       artist: '林生祥',
-      url: 'https://drive.usercontent.google.com/download?id=1WPE1JPWcM449AnvDVwvT8RU6juygM5wZ&export=download&authuser=0&confirm=t&uuid=7a59ecca-72d4-46e3-966b-e7615edfb1f0&at=APZUnTV7f_lwVEGt7fFcCa8MUM2f:1708526417175',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/%E9%9D%A2%E4%BC%9A%E8%8F%9C/obj_wo3DlMOGwrbDjj7DisKw_28481791156_3c31_c3ba_8df1_3a4bc61144ce0dc454a830884374e085.mp3?Expires=1708528634&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=0IEuoEjJdkTZsf%2BtwgUg7SS4dYg%3D',
       cover:
             'http://p1.music.126.net/cLoAM3X8pIuCil_oJpxjWw==/18511377767183768.jpg?param=130y130'
     },
     {
       name: 'Cornfield Chase',
       artist: 'Hans Zimmer',
-      url: 'https://m701.music.126.net/20240221212442/69f1cfb2bedfe942ed56262b4cde55fe/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/21917423564/550b/c803/12ab/a0d33aff58e6925c6715e438890e6cc0.mp3',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/Cornfield%20Chase/obj_wo3DlMOGwrbDjj7DisKw_18747696370_ba29_3c8c_a762_323c666f28a2d2408334cb6a78819e6d.mp3?Expires=1708528667&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=b8FJUtud38AlcIf2reU2JxAjzYg%3D',
       cover:
             'http://p2.music.126.net/U3oZfHlbzrFxuR9Y9jOgkA==/109951168223454519.jpg?param=130y130'
     },
     {
       name: '欢沁',
       artist: '林海',
-      url: 'https://m701.music.126.net/20240221212345/16941487532fe107dc4808a25c53c1eb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29493028381/f2aa/8427/9c0e/3072b1ad2e991659b3d43b4e69dd8355.mp3 ',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/%E6%AC%A2%E6%B2%81/2500908947.mp3?Expires=1708528692&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=DMC5tkIscaMSbuCPvdpqDAC31Ag%3D',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000002vrRdy49OgCi_3.jpg?max_age=2592000'
     },
     {
       name: 'Bloom of Youth',
       artist: 'Key Sounds Label',
-      url: 'https://m704.music.126.net/20240221114511/e04b7119a4758bd2bd32748248875c18/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15005807694/b057/2021/9fde/500f01d1ae259f28a947134e9b80fd4a.mp3?_authSecret=0000018dc9ad8e5409860aaba077252a',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/Bloom%20of%20Youth/obj_wo3DlMOGwrbDjj7DisKw_15005807694_b057_2021_9fde_500f01d1ae259f28a947134e9b80fd4a.mp3?Expires=1708528721&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=L9LaMfr%2F4XzFJ5HvTu%2FoJ3iToV0%3D',
       cover:
             'http://p2.music.126.net/J3OaDojFCITstz68tcMRfA==/109951167557780159.jpg?param=130y130'
     },
@@ -256,14 +256,14 @@ const BLOG = {
     {
       name: '【FREE】lucky',
       artist: 'Salder4cash',
-      url: 'https://c1026.lanosso.com/bc43e128f5a48b370d653d98b9a9486e/65d57328/2022/11/28/6cffc1403688fcc56b74eb5beff8e7bb.mp3?fn=%E3%80%90FREE%E3%80%91lucky-FuGa%20pang.128.mp3',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/%E3%80%90FREE%E3%80%91lucky/%E3%80%90FREE%E3%80%91lucky-FuGa%20pang.128.mp3?Expires=1708528795&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=WiM%2BX%2FA8u9KwENOt8heUFqWtvdY%3D',
       cover:
             'http://p1.music.126.net/QJoBtToXBScsEnWfZZa6fw==/109951164380775587.jpg?param=130y130'
     },
     {
       name: 'Call of Silence',
       artist: ' 泽野弘之',
-      url: 'https://pan.baidu.com/s/18tPnY17ySB76OSwFAwBlfQ?pwd=sfcw',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/call%20of%20silence/2493455390.mp3?Expires=1708528818&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=gMhSI1bcqK%2FGyIyECsX%2FqXvZjjo%3D',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000003KlbID0ty3NB_1.jpg?max_age=2592000'
     },
@@ -291,7 +291,7 @@ const BLOG = {
     {
       name: 'eye-water',
       artist: '泽野弘之',
-      url: 'https://lv-sycdn.kuwo.cn/fcc66db31d5c27d8d207c58da2ceb389/65d56c58/resource/30106/trackmedia/M500000Fc0RK1BJ0D9.mp3',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/eye-water/M500000Fc0RK1BJ0D9.mp3?Expires=1708528837&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=Utq9R2pHqqz9MJLQ7bQ6mepcZS8%3D',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000003IQz7S3x6HE4_1.jpg?max_age=2592000'
     },
@@ -305,14 +305,14 @@ const BLOG = {
     {
       name: '我愛你',
       artist: 'Ayasa绚沙',
-      url: 'https://c1026.lanosso.com/7c662645768f6e6e24b6b42f3040c344/65d573b0/2023/04/22/9f33a5bb2bdd8f8369a1514fe9f88648.mp3?fn=%E6%88%91%E6%84%9B%E4%BD%A0-Ayasa%E7%BB%9A%E6%B2%99.128.mp3',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/%E6%88%91%E6%84%9B%E4%BD%A0/%E6%88%91%E6%84%9B%E4%BD%A0-Ayasa%E7%BB%9A%E6%B2%99.128.mp3?Expires=1708528856&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=T3YtcRIhszQI78XrdfdrWzbNBBg%3D',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000003SAM6t0yXMjA_2.jpg?max_age=2592000'
     },
     {
       name: '告白の夜',
       artist: 'Ayasa绚沙',
-      url: 'https://c1026.lanosso.com/cba07213f1d7837150f9eba66d7ca17b/65d573c7/2023/04/18/c09a340ddf4316d83ba6f55a665c9bb9.mp3?fn=%E5%91%8A%E7%99%BD%E3%81%AE--Ayasa%E7%BB%9A%E6%B2%99.128.mp3',
+      url: 'https://bucket-zwz.oss-cn-shenzhen.aliyuncs.com/%E5%8D%9A%E5%AE%A2%E9%9F%B3%E4%B9%90/%E5%91%8A%E7%99%BD%E3%81%AE%E5%A4%9C/%E5%91%8A%E7%99%BD%E3%81%AE--Ayasa%E7%BB%9A%E6%B2%99.128.mp3?Expires=1708528874&OSSAccessKeyId=TMP.3KeXRCsLCA4mJUup4UKbHuEjC9Gof7XGPriczakrv6ahRZRMjtyW535fsi9Y58jpFMP7QXibgCKUZhjTpMskmS71He9XXB&Signature=bgQg%2BC6XXzAgSGe%2BU%2BRQ%2F4%2FoBqw%3D',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M0000001nWAJ0rCfJU_1.jpg?max_age=2592000'
     }
