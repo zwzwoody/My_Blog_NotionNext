@@ -1,6 +1,5 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/article/how-to-config-notion-next#c4768010ae7d44609b744e79e2f9959a
 // 2.21  对失效的音源进行更改3
-
 const BLOG = {
   // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
   NOTION_PAGE_ID:
@@ -222,7 +221,7 @@ const BLOG = {
     {
       name: '面会菜',
       artist: '林生祥',
-      url: 'https://m704.music.126.net/20240221113908/636f89f1653e4a803cb4c7f27a4f1c25/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481791156/3c31/c3ba/8df1/3a4bc61144ce0dc454a830884374e085.mp3?_authSecret=0000018dc9a807151e440aaba3681543',
+      url: 'https://drive.usercontent.google.com/download?id=1WPE1JPWcM449AnvDVwvT8RU6juygM5wZ&export=download&authuser=0&confirm=t&uuid=7a59ecca-72d4-46e3-966b-e7615edfb1f0&at=APZUnTV7f_lwVEGt7fFcCa8MUM2f:1708526417175',
       cover:
             'http://p1.music.126.net/cLoAM3X8pIuCil_oJpxjWw==/18511377767183768.jpg?param=130y130'
     },
