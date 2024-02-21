@@ -1,6 +1,5 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/article/how-to-config-notion-next#c4768010ae7d44609b744e79e2f9959a
-// 2.21  对失效的音源进行更改3
-
+// 2.21  对失效的音源进行更改 google drive
 const BLOG = {
   // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
   NOTION_PAGE_ID:
@@ -215,7 +214,7 @@ const BLOG = {
     {
       name: '五月雨',
       artist: '高梨康治',
-      url: 'https://drive.usercontent.google.com/download?id=1RziyXgXQEhsDfsfxjKG4gTyddTveX_Oi&export=download&authuser=0&confirm=t&uuid=382dca0e-fe3b-4ba9-891b-3de1303b2951&at=APZUnTUh7WNzqjN1vhbBbeAccoBP:1708526158775',
+      url: 'https://drive.usercontent.google.com/download?id=1RziyXgXQEhsDfsfxjKG4gTyddTveX_Oi&export=download&authuser=0&confirm=t&uuid=aaff9565-eb75-42c8-ad49-0d9e1cb58ce4&at=APZUnTWhdjPQdG3ZQcSZXuO0Mc0A:1708527320082',
       cover:
             'http://p2.music.126.net/rdpott3hrkc53V2sbaS0Kw==/109951166364157298.jpg?param=130y130'
     },
