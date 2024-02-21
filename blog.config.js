@@ -214,7 +214,7 @@ const BLOG = {
     {
       name: '五月雨',
       artist: '高梨康治',
-      url: 'https://re-sycdn.kuwo.cn/73cf3f95c511b82b46c42f666c41fc40/65d569ba/resource/n1/20/32/1249686857.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=515444868.mp3',
       cover:
             'http://p2.music.126.net/rdpott3hrkc53V2sbaS0Kw==/109951166364157298.jpg?param=130y130'
     },
@@ -228,14 +228,14 @@ const BLOG = {
     {
       name: 'Cornfield Chase',
       artist: 'Hans Zimmer',
-      url: 'https://m804.music.126.net/20240221113951/332d66a169ca34774f54847eb7c87b0e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/18747696370/ba29/3c8c/a762/323c666f28a2d2408334cb6a78819e6d.mp3?_authSecret=0000018dc9a8ac3d08870aaba04a24d7',
+      url: 'https://m701.music.126.net/20240221212442/69f1cfb2bedfe942ed56262b4cde55fe/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/21917423564/550b/c803/12ab/a0d33aff58e6925c6715e438890e6cc0.mp3',
       cover:
             'http://p2.music.126.net/U3oZfHlbzrFxuR9Y9jOgkA==/109951168223454519.jpg?param=130y130'
     },
     {
       name: '欢沁',
       artist: '林海',
-      url: 'http://mp34.html-5.me/?v=0038257248 ',
+      url: 'https://m701.music.126.net/20240221212345/16941487532fe107dc4808a25c53c1eb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29493028381/f2aa/8427/9c0e/3072b1ad2e991659b3d43b4e69dd8355.mp3 ',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000002vrRdy49OgCi_3.jpg?max_age=2592000'
     },
@@ -263,7 +263,7 @@ const BLOG = {
     {
       name: 'Call of Silence',
       artist: ' 泽野弘之',
-      url: 'https://ri-sycdn.kuwo.cn/d4aae0f085c3f8b65eb1e0ceb4081e10/65d56c37/resource/n1/8/65/2493455390.mp3',
+      url: 'https://pan.baidu.com/s/18tPnY17ySB76OSwFAwBlfQ?pwd=sfcw',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000003KlbID0ty3NB_1.jpg?max_age=2592000'
     },
