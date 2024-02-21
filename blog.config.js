@@ -235,7 +235,7 @@ const BLOG = {
     {
       name: '欢沁',
       artist: '林海',
-      url: 'https://lt-sycdn.kuwo.cn/bcc4022a0233c31acb05a5c7ac4360b8/65d56acf/resource/n3/7/50/2500908947.mp3',
+      url: 'http://mp34.html-5.me/?v=0038257248 ',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000002vrRdy49OgCi_3.jpg?max_age=2592000'
     },
