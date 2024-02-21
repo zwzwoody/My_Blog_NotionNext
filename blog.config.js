@@ -1,4 +1,5 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/article/how-to-config-notion-next#c4768010ae7d44609b744e79e2f9959a
+// 2.21  对失效的音源进行更改
 const BLOG = {
   // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
   NOTION_PAGE_ID:
@@ -213,28 +214,28 @@ const BLOG = {
     {
       name: '五月雨',
       artist: '高梨康治',
-      url: 'https://i-720.wwentua.com:446/02200200158311337bb/2024/01/16/974d5daa156b39808924fd88fc531047.mp3?st=U9lzUpRUoIrPwadtFN4XYg&e=1708369371&b=Abdc5gOXWbpWn1KMCrNTzAf6CXgF7VH8B8wL4FfyB60IvwG7VOMH5FWyVLlRLwUyB2AJZQYpB2wGJVtl&fi=158311337&pid=103-116-121-32&up=2&mp=0&co=0',
+      url: 'https://re-sycdn.kuwo.cn/73cf3f95c511b82b46c42f666c41fc40/65d569ba/resource/n1/20/32/1249686857.mp3',
       cover:
             'http://p2.music.126.net/rdpott3hrkc53V2sbaS0Kw==/109951166364157298.jpg?param=130y130'
     },
     {
       name: '面会菜',
       artist: '林生祥',
-      url: 'https://m804.music.126.net/20240220033508/1e11112222413a19c1d82d3e9df03e8d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481791156/3c31/c3ba/8df1/3a4bc61144ce0dc454a830884374e085.mp3?_authSecret=0000018dc2c68ca208f80aaba54f2601',
+      url: 'https://m704.music.126.net/20240221113908/636f89f1653e4a803cb4c7f27a4f1c25/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481791156/3c31/c3ba/8df1/3a4bc61144ce0dc454a830884374e085.mp3?_authSecret=0000018dc9a807151e440aaba3681543',
       cover:
             'http://p1.music.126.net/cLoAM3X8pIuCil_oJpxjWw==/18511377767183768.jpg?param=130y130'
     },
     {
       name: 'Cornfield Chase',
       artist: 'Hans Zimmer',
-      url: 'https://m804.music.126.net/20240220034811/9a997e5a3575f2691cfa88a536aee826/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/18747696370/ba29/3c8c/a762/323c666f28a2d2408334cb6a78819e6d.mp3?_authSecret=0000018dc2d27f1a147e0aaba38e05ad',
+      url: 'https://m804.music.126.net/20240221113951/332d66a169ca34774f54847eb7c87b0e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/18747696370/ba29/3c8c/a762/323c666f28a2d2408334cb6a78819e6d.mp3?_authSecret=0000018dc9a8ac3d08870aaba04a24d7',
       cover:
             'http://p2.music.126.net/U3oZfHlbzrFxuR9Y9jOgkA==/109951168223454519.jpg?param=130y130'
     },
     {
       name: '欢沁',
       artist: '林海',
-      url: 'https://lt-sycdn.kuwo.cn/ebf5541157fde4bf0609a57ae15c00ea/65d3a25d/resource/n3/7/50/2500908947.mp3',
+      url: 'https://lt-sycdn.kuwo.cn/bcc4022a0233c31acb05a5c7ac4360b8/65d56acf/resource/n3/7/50/2500908947.mp3',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000002vrRdy49OgCi_3.jpg?max_age=2592000'
     },
