@@ -214,7 +214,7 @@ const BLOG = {
     {
       name: '五月雨',
       artist: '高梨康治',
-      url: 'https://drive.google.com/file/d/1RziyXgXQEhsDfsfxjKG4gTyddTveX_Oi/view?usp=sharing',
+      url: 'https://drive.usercontent.google.com/download?id=1RziyXgXQEhsDfsfxjKG4gTyddTveX_Oi&export=download&authuser=0&confirm=t&uuid=382dca0e-fe3b-4ba9-891b-3de1303b2951&at=APZUnTUh7WNzqjN1vhbBbeAccoBP:1708526158775',
       cover:
             'http://p2.music.126.net/rdpott3hrkc53V2sbaS0Kw==/109951166364157298.jpg?param=130y130'
     },
