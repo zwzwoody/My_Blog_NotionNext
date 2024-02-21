@@ -242,7 +242,7 @@ const BLOG = {
     {
       name: 'Bloom of Youth',
       artist: 'Key Sounds Label',
-      url: 'https://m704.music.126.net/20240220034937/b8e90ee3929f6789f742109f51be74b3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15005807694/b057/2021/9fde/500f01d1ae259f28a947134e9b80fd4a.mp3?_authSecret=0000018dc2d3cf340a330aaba4fbadde',
+      url: 'https://m704.music.126.net/20240221114511/e04b7119a4758bd2bd32748248875c18/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15005807694/b057/2021/9fde/500f01d1ae259f28a947134e9b80fd4a.mp3?_authSecret=0000018dc9ad8e5409860aaba077252a',
       cover:
             'http://p2.music.126.net/J3OaDojFCITstz68tcMRfA==/109951167557780159.jpg?param=130y130'
     },
@@ -256,14 +256,14 @@ const BLOG = {
     {
       name: '【FREE】lucky',
       artist: 'Salder4cash',
-      url: 'https://lu-sycdn.kuwo.cn/068bf798a557d64245b08357031798d0/65d3ab72/resource/n3/31/35/283278062.mp3',
+      url: 'https://c1026.lanosso.com/bc43e128f5a48b370d653d98b9a9486e/65d57328/2022/11/28/6cffc1403688fcc56b74eb5beff8e7bb.mp3?fn=%E3%80%90FREE%E3%80%91lucky-FuGa%20pang.128.mp3',
       cover:
             'http://p1.music.126.net/QJoBtToXBScsEnWfZZa6fw==/109951164380775587.jpg?param=130y130'
     },
     {
       name: 'Call of Silence',
       artist: ' 泽野弘之',
-      url: 'https://ri-sycdn.kuwo.cn/7826b18595f6eccf5e513512b1f14b67/65d3a4cc/resource/n1/8/65/2493455390.mp3',
+      url: 'https://ri-sycdn.kuwo.cn/d4aae0f085c3f8b65eb1e0ceb4081e10/65d56c37/resource/n1/8/65/2493455390.mp3',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000003KlbID0ty3NB_1.jpg?max_age=2592000'
     },
@@ -291,7 +291,7 @@ const BLOG = {
     {
       name: 'eye-water',
       artist: '泽野弘之',
-      url: 'https://lv-sycdn.kuwo.cn/59b1f6c7d38fbf7f48fa00597887a7a0/65d3a6c0/resource/30106/trackmedia/M500000Fc0RK1BJ0D9.mp3',
+      url: 'https://lv-sycdn.kuwo.cn/fcc66db31d5c27d8d207c58da2ceb389/65d56c58/resource/30106/trackmedia/M500000Fc0RK1BJ0D9.mp3',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000003IQz7S3x6HE4_1.jpg?max_age=2592000'
     },
@@ -305,14 +305,14 @@ const BLOG = {
     {
       name: '我愛你',
       artist: 'Ayasa绚沙',
-      url: 'https://nf-sycdn.kuwo.cn/6a9a674e9cbcb0cbdb3d45787ca05a5c/65d3a877/resource/n3/89/51/1041984994.mp3',
+      url: 'https://c1026.lanosso.com/7c662645768f6e6e24b6b42f3040c344/65d573b0/2023/04/22/9f33a5bb2bdd8f8369a1514fe9f88648.mp3?fn=%E6%88%91%E6%84%9B%E4%BD%A0-Ayasa%E7%BB%9A%E6%B2%99.128.mp3',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M000003SAM6t0yXMjA_2.jpg?max_age=2592000'
     },
     {
       name: '告白の夜',
       artist: 'Ayasa绚沙',
-      url: 'https://lv-sycdn.kuwo.cn/3b62e5a3079efb270aa0f1b7ca796333/65d3a8e3/resource/30106/trackmedia/M500000sIvsg1K7GHj.mp3',
+      url: 'https://c1026.lanosso.com/cba07213f1d7837150f9eba66d7ca17b/65d573c7/2023/04/18/c09a340ddf4316d83ba6f55a665c9bb9.mp3?fn=%E5%91%8A%E7%99%BD%E3%81%AE--Ayasa%E7%BB%9A%E6%B2%99.128.mp3',
       cover:
             'https://y.qq.com/music/photo_new/T002R300x300M0000001nWAJ0rCfJU_1.jpg?max_age=2592000'
     }
